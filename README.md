@@ -5,7 +5,7 @@ I make libraries and web stuff (and sometimes programming languages)
 also c# = ceira sharp *change my mind*
 
 ### Recent Projects
-- Currently working on ![RakgnarokFramework](https://github.com/aragubas/RakgnarokTaiyou)
+- Currently working on [RakgnarokFramework](https://github.com/aragubas/RakgnarokTaiyou)
 
 ### Social
 - Discord ``Aragubas#3594``
