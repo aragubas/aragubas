@@ -1,16 +1,13 @@
-### Hi there 👋
+![my stats](https://github-readme-stats.vercel.app/api?username=aragubas&show_icons=true&theme=default)
 
-<!--
-**aragubas/aragubas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make libraries and web stuff (and sometimes programming languages) 
 
-Here are some ideas to get you started:
+also c# = ceira sharp *change my mind*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent Projects
+- Currently working on ![RakgnarokFramework](https://github.com/aragubas/RakgnarokTaiyou)
+
+### Social
+- Discord ``Aragubas#3594``
+- Telegram https://t.me/aragubas
+- Twitter ``@planet_aragubas``
