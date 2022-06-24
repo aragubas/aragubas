@@ -1,11 +1,8 @@
 ![my stats](https://github-readme-stats.vercel.app/api?username=aragubas&show_icons=true&theme=default)
 
-I make libraries and web stuff (and sometimes programming languages) 
+I make libraries, web stuff, (sometimes programming languages) and games
 
 also c# = ceira sharp *change my mind*
-
-### Recent Projects
-- Currently working on [TaiyouClient](https://github.com/aragubas/TaiyouClient)
 
 ### Social
 - Discord ``Aragubas#3594``
