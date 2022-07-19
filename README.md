@@ -10,4 +10,4 @@ also c# = ceira sharp *change my mind*
 - Youtube: https://youtube.com/c/aragubas
 
 ### Programming Languages 💥
-C#, Typescript/Javascript, CSS and some C++
+C#, Typescript and some C++
